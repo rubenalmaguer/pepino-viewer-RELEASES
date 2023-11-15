@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+  #### Added
+  - Manual update menu
+
 ## 1.2.0
   #### Added
   - Image opimization using sharp
