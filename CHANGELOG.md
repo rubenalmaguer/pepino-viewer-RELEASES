@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.2
+  #### Added
+  - Toggle menu for automatic updates
+    
 ## 1.3.1
   #### Added
   - Automatic update (not optional)
