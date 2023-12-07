@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.3
+  #### Fixed
+  - Mouse wheel detection
+
 ## 1.3.2
   #### Added
   - Toggle menu for automatic updates
