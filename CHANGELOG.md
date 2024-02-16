@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.4
+  #### Added
+  - Auto-scroll (Use keys: q, a, r)
+
 ## 1.3.3
   #### Fixed
   - Mouse wheel detection
